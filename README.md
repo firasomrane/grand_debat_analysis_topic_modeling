@@ -9,7 +9,7 @@ So that everyone can know the major ecological problem in each region.
 
 The major problems that french people talked about according to the data are:
 
-Déreglements et disparition de certaines espèces, Pollution et déchets, Usage excessif des véhicules, Ecologie et finance
+Déreglements et disparition de certaines espèces, Pollution et déchets, Usage excessif des véhicules, Mode de chauffage
 
 
 ## It contains four notebooks.
