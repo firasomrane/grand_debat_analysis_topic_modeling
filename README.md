@@ -20,7 +20,12 @@ Déreglements et disparition de certaines espèces, Pollution et déchets, Usage
 4- Predict nan responses.
 
 
+### Remarks
+
+The results of the pyLDAvis library are not desplayed just in the html version of the notebook so to get the results just download the data and run the notebook.
+
 ### Get the data
 
-Data is open to everyone [here](https://www.data.gouv.fr/en/datasets/donnees-ouvertes-du-grand-debat-national/)
+Data is open to everyone [here](https://www.data.gouv.fr/en/datasets/donnees-ouvertes-du-grand-debat-national/).
+The one used is 'LA_TRANSITION_ECOLOGIQUE.csv'
 
