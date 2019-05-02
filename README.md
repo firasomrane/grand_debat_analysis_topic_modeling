@@ -1,5 +1,4 @@
-# grand_debat_analysis_topic_modeling
- # Project Title
+# Extract major ecological problems in France
 
 This is a project that aims to analyse data gathered from French people in the initiative of Grand Débat National. The data analysed in this project is the one related to environmental problems.
 
